@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\project\\4. AI Analytics Reporting\\AIAnalyticsReport\\AIAnalyticsReport\\wwwroot\\assets\\client_secret.json",
+      "PackagePath": "staticwebassets\\assets\\client_secret.json"
+    },
+    {
+      "Id": "D:\\project\\4. AI Analytics Reporting\\AIAnalyticsReport\\AIAnalyticsReport\\wwwroot\\assets\\uploads\\dataset.csv",
+      "PackagePath": "staticwebassets\\assets\\uploads\\dataset.csv"
+    },
+    {
+      "Id": "D:\\project\\4. AI Analytics Reporting\\AIAnalyticsReport\\AIAnalyticsReport\\wwwroot\\assets\\uploads\\dataset.json",
+      "PackagePath": "staticwebassets\\assets\\uploads\\dataset.json"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.AIAnalyticsReport.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.AIAnalyticsReport.props",
+      "PackagePath": "build\\AIAnalyticsReport.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AIAnalyticsReport.props",
+      "PackagePath": "buildMultiTargeting\\AIAnalyticsReport.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.AIAnalyticsReport.props",
+      "PackagePath": "buildTransitive\\AIAnalyticsReport.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

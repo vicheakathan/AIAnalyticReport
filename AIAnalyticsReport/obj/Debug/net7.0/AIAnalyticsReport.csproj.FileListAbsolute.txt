@@ -1,0 +1,518 @@
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/appsettings.Development.json
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/appsettings.json
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AIAnalyticsReport.staticwebassets.runtime.json
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AIAnalyticsReport.exe
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AIAnalyticsReport.deps.json
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AIAnalyticsReport.runtimeconfig.json
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AIAnalyticsReport.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AIAnalyticsReport.pdb
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Api.Gax.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Api.Gax.Rest.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Apis.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Apis.Auth.PlatformServices.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Apis.Auth.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Apis.Bigquery.v2.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Apis.Core.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Cloud.BigQuery.V2.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.OpenApi.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Newtonsoft.Json.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.csproj.AssemblyReference.cache
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.GeneratedMSBuildEditorConfig.editorconfig
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.AssemblyInfoInputs.cache
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.AssemblyInfo.cs
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.csproj.CoreCompileInputs.cache
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.MvcApplicationPartsAssemblyInfo.cs
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.MvcApplicationPartsAssemblyInfo.cache
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets/msbuild.AIAnalyticsReport.Microsoft.AspNetCore.StaticWebAssets.props
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets/msbuild.build.AIAnalyticsReport.props
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.AIAnalyticsReport.props
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.AIAnalyticsReport.props
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets.pack.json
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets.build.json
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets.development.json
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/scopedcss/bundle/AIAnalyticsReport.styles.css
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.csproj.CopyComplete
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/refint/AIAnalyticsReport.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.pdb
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.genruntimeconfig.cache
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/ref/AIAnalyticsReport.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AnalyticsReport.Manager.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AnalyticsReport.Manager.pdb
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AnalyticsReport.Model.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AnalyticsReport.Model.pdb
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Pipelines.Sockets.Unofficial.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/StackExchange.Redis.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/StackExchange.Redis.Extensions.Core.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/StackExchange.Redis.Extensions.Newtonsoft.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.ApplicationInsights.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.ApplicationInsights.AspNetCore.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AI.DependencyCollector.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AI.EventCounterCollector.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AI.PerfCounterCollector.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AI.WindowsServer.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AI.ServerTelemetryChannel.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Diagnostics.PerformanceCounter.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Drawing.Common.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Security.Permissions.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Windows.Extensions.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Azure.CognitiveServices.AnomalyDetector.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Rest.ClientRuntime.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Rest.ClientRuntime.Azure.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.CodeDom.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/CsvHelper.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Data.SqlClient.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-arm64/native/sni.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-x64/native/sni.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-x86/native/sni.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Azure.AI.OpenAI.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Azure.Core.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Memory.Data.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Azure.Identity.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Humanizer.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Mono.TextTemplating.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Runtime.Caching.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AnalyticsReport.Core.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AnalyticsReport.Core.pdb
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/OpenAI_API.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/appsettings.Development.json
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/appsettings.json
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AIAnalyticsReport.staticwebassets.runtime.json
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AIAnalyticsReport.exe
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AIAnalyticsReport.deps.json
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AIAnalyticsReport.runtimeconfig.json
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AIAnalyticsReport.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AIAnalyticsReport.pdb
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Azure.AI.OpenAI.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Azure.Core.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Azure.Identity.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/CsvHelper.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Api.Gax.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Api.Gax.Rest.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Apis.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Apis.Auth.PlatformServices.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Apis.Auth.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Apis.Bigquery.v2.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Apis.Core.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Cloud.BigQuery.V2.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Humanizer.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.ApplicationInsights.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.ApplicationInsights.AspNetCore.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AI.DependencyCollector.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AI.EventCounterCollector.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AI.PerfCounterCollector.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AI.WindowsServer.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AI.ServerTelemetryChannel.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Azure.CognitiveServices.AnomalyDetector.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.OpenApi.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Rest.ClientRuntime.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Rest.ClientRuntime.Azure.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Mono.TextTemplating.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Newtonsoft.Json.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/OpenAI_API.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Pipelines.Sockets.Unofficial.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/StackExchange.Redis.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/StackExchange.Redis.Extensions.Core.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/StackExchange.Redis.Extensions.Newtonsoft.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.CodeDom.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Data.SqlClient.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Diagnostics.PerformanceCounter.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Drawing.Common.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Memory.Data.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Runtime.Caching.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Security.Permissions.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Windows.Extensions.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-arm64/native/sni.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-x64/native/sni.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-x86/native/sni.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AnalyticsReport.Core.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AnalyticsReport.Manager.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AnalyticsReport.Model.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AnalyticsReport.Manager.pdb
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AnalyticsReport.Model.pdb
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AnalyticsReport.Core.pdb
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.csproj.AssemblyReference.cache
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.GeneratedMSBuildEditorConfig.editorconfig
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.AssemblyInfoInputs.cache
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.AssemblyInfo.cs
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.csproj.CoreCompileInputs.cache
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.MvcApplicationPartsAssemblyInfo.cs
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.MvcApplicationPartsAssemblyInfo.cache
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets/msbuild.AIAnalyticsReport.Microsoft.AspNetCore.StaticWebAssets.props
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets/msbuild.build.AIAnalyticsReport.props
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.AIAnalyticsReport.props
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.AIAnalyticsReport.props
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets.pack.json
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets.build.json
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets.development.json
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/scopedcss/bundle/AIAnalyticsReport.styles.css
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.csproj.CopyComplete
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/refint/AIAnalyticsReport.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.pdb
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.genruntimeconfig.cache
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/ref/AIAnalyticsReport.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/appsettings.Development.json
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/appsettings.json
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AIAnalyticsReport.staticwebassets.runtime.json
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AIAnalyticsReport
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AIAnalyticsReport.deps.json
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AIAnalyticsReport.runtimeconfig.json
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AIAnalyticsReport.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AIAnalyticsReport.pdb
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Azure.AI.OpenAI.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Azure.Core.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Azure.Identity.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/CsvHelper.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Api.Gax.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Api.Gax.Rest.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Apis.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Apis.Auth.PlatformServices.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Apis.Auth.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Apis.Bigquery.v2.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Apis.Core.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Cloud.BigQuery.V2.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Humanizer.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.ApplicationInsights.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.ApplicationInsights.AspNetCore.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AI.DependencyCollector.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AI.EventCounterCollector.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AI.PerfCounterCollector.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AI.WindowsServer.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AI.ServerTelemetryChannel.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Azure.CognitiveServices.AnomalyDetector.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Extensions.Logging.ApplicationInsights.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Rest.ClientRuntime.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Rest.ClientRuntime.Azure.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/OpenAI_API.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Pipelines.Sockets.Unofficial.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/StackExchange.Redis.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/StackExchange.Redis.Extensions.Core.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/StackExchange.Redis.Extensions.Newtonsoft.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.CodeDom.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Data.SqlClient.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Diagnostics.PerformanceCounter.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-arm64/native/sni.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-x64/native/sni.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-x86/native/sni.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AnalyticsReport.Core.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AnalyticsReport.Manager.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AnalyticsReport.Model.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AnalyticsReport.Manager.pdb
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AnalyticsReport.Model.pdb
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AnalyticsReport.Core.pdb
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.csproj.AssemblyReference.cache
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.AssemblyInfoInputs.cache
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.AssemblyInfo.cs
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.csproj.CoreCompileInputs.cache
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.MvcApplicationPartsAssemblyInfo.cs
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.MvcApplicationPartsAssemblyInfo.cache
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets/msbuild.AIAnalyticsReport.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets/msbuild.build.AIAnalyticsReport.props
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.AIAnalyticsReport.props
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.AIAnalyticsReport.props
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets.development.json
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/scopedcss/bundle/AIAnalyticsReport.styles.css
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.csproj.CopyComplete
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/refint/AIAnalyticsReport.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.pdb
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.genruntimeconfig.cache
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/ref/AIAnalyticsReport.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.Google.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/appsettings.Development.json
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/appsettings.json
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AIAnalyticsReport.staticwebassets.runtime.json
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AIAnalyticsReport
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AIAnalyticsReport.deps.json
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AIAnalyticsReport.runtimeconfig.json
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AIAnalyticsReport.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AIAnalyticsReport.pdb
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Azure.AI.OpenAI.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Azure.Core.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Azure.Identity.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/CsvHelper.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Api.Gax.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Api.Gax.Rest.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Apis.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Apis.Auth.PlatformServices.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Apis.Auth.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Apis.Bigquery.v2.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Apis.Core.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Google.Cloud.BigQuery.V2.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Humanizer.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.ApplicationInsights.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.ApplicationInsights.AspNetCore.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AI.DependencyCollector.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AI.EventCounterCollector.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AI.PerfCounterCollector.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AI.WindowsServer.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AI.ServerTelemetryChannel.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.Google.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Azure.CognitiveServices.AnomalyDetector.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Extensions.Logging.ApplicationInsights.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Rest.ClientRuntime.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Rest.ClientRuntime.Azure.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/OpenAI_API.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Pipelines.Sockets.Unofficial.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/StackExchange.Redis.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/StackExchange.Redis.Extensions.Core.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/StackExchange.Redis.Extensions.Newtonsoft.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.CodeDom.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Data.SqlClient.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Diagnostics.PerformanceCounter.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-arm64/native/sni.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-x64/native/sni.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win-x86/native/sni.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AnalyticsReport.Core.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AnalyticsReport.Manager.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AnalyticsReport.Model.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AnalyticsReport.Manager.pdb
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AnalyticsReport.Model.pdb
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/bin/Debug/net7.0/AnalyticsReport.Core.pdb
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.csproj.AssemblyReference.cache
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.AssemblyInfoInputs.cache
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.AssemblyInfo.cs
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.csproj.CoreCompileInputs.cache
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.MvcApplicationPartsAssemblyInfo.cs
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.MvcApplicationPartsAssemblyInfo.cache
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets/msbuild.AIAnalyticsReport.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets/msbuild.build.AIAnalyticsReport.props
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.AIAnalyticsReport.props
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.AIAnalyticsReport.props
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/staticwebassets.development.json
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/scopedcss/bundle/AIAnalyticsReport.styles.css
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.csproj.CopyComplete
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/refint/AIAnalyticsReport.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.pdb
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/AIAnalyticsReport.genruntimeconfig.cache
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/obj/Debug/net7.0/ref/AIAnalyticsReport.dll

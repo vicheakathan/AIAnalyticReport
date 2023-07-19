@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "6WfManFKorII1n4f5NDH5pE2hDXh+ZsytyrP/p2lg0o=",
+  "Source": "AIAnalyticsReport",
+  "BasePath": "_content/AIAnalyticsReport",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AIAnalyticsReport\\wwwroot",
+      "Source": "AIAnalyticsReport",
+      "ContentRoot": "D:\\project\\4. AI Analytics Reporting\\AIAnalyticsReport\\AIAnalyticsReport\\wwwroot\\",
+      "BasePath": "_content/AIAnalyticsReport",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\project\\4. AI Analytics Reporting\\AIAnalyticsReport\\AIAnalyticsReport\\wwwroot\\assets\\client_secret.json",
+      "SourceId": "AIAnalyticsReport",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\project\\4. AI Analytics Reporting\\AIAnalyticsReport\\AIAnalyticsReport\\wwwroot\\",
+      "BasePath": "_content/AIAnalyticsReport",
+      "RelativePath": "assets/client_secret.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\client_secret.json"
+    },
+    {
+      "Identity": "D:\\project\\4. AI Analytics Reporting\\AIAnalyticsReport\\AIAnalyticsReport\\wwwroot\\assets\\uploads\\dataset.csv",
+      "SourceId": "AIAnalyticsReport",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\project\\4. AI Analytics Reporting\\AIAnalyticsReport\\AIAnalyticsReport\\wwwroot\\",
+      "BasePath": "_content/AIAnalyticsReport",
+      "RelativePath": "assets/uploads/dataset.csv",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\uploads\\dataset.csv"
+    },
+    {
+      "Identity": "D:\\project\\4. AI Analytics Reporting\\AIAnalyticsReport\\AIAnalyticsReport\\wwwroot\\assets\\uploads\\dataset.json",
+      "SourceId": "AIAnalyticsReport",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\project\\4. AI Analytics Reporting\\AIAnalyticsReport\\AIAnalyticsReport\\wwwroot\\",
+      "BasePath": "_content/AIAnalyticsReport",
+      "RelativePath": "assets/uploads/dataset.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\uploads\\dataset.json"
+    }
+  ]
+}

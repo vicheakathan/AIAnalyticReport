@@ -1,0 +1,63 @@
+order_date_time,tenant,group,category,item,item_type,size,qty,unit_price,discount,order_by,grand_total,channel,source
+2023-07-10 15:51:05.7300000,Potato corner,Food,"Potato Fries & Hotdogs ",MEGA,Combo,Combo,"1,00","3,41","0,5115",Cashier 1,"3,41",Take-Away,Store
+2023-07-10 12:16:18.5330000,Potato corner,Food,Super,Super Nuggets,Combo,Combo,"1,00","4,50","0,90",Cashier 1,"4,50",Take-Away,Store
+2023-07-10 17:29:11.0930000,Potato corner,Food,"Wings Chicken ",Wings 5pcs,Combo,Combo,"1,00","5,60","0,00",Cashier 1,"5,60",Take-Away,Store
+2023-07-10 17:29:21.3770000,Potato corner,"Drink ",Drink,Coca-Cola,Normal,"Normal ","1,00","1,00","0,00",Cashier 1,"1,00",Take-Away,Store
+2023-07-10 13:44:17.3370000,Potato corner,Food,"Potato Fries & Hotdogs ",MEGA,Combo,Combo,"1,00","3,41","0,00",Cashier 1,"3,41",Take-Away,Store
+2023-07-10 19:52:23.6870000,Potato corner,Food,Super,Super Nuggets,Combo,Combo,"1,00","4,50","0,90",Cashier 1,"4,50",Take-Away,Store
+2023-07-10 19:50:36.0630000,Potato corner,Food,"Potato Fries & Hotdogs ",Hotdog 5pcs,Combo,Combo,"1,00","2,30","0,00",Cashier 1,"2,30",Take-Away,Store
+2023-07-10 21:04:35.3870000,Potato corner,Food,"Potato Fries & Hotdogs ",LARGE,Combo,Combo,"1,00","1,75","0,00",Cashier 1,"1,75",Take-Away,Store
+2023-07-10 21:04:41.2630000,Potato corner,Food,Happy Box Set,Set 1,Combo,Combo,"1,00","5,70","0,00",Cashier 1,"5,70",Take-Away,Store
+2023-07-10 14:32:40.3070000,Potato corner,Food,"Potato Fries & Hotdogs ",MEGA,Combo,Combo,"1,00","3,41","0,00",Cashier 1,"3,41",Take-Away,Store
+2023-07-10 15:32:44.2600000,Potato corner,"Drink ",Drink,Water,Normal,"Normal ","1,00","0,72","0,00",Cashier 1,"0,72",Take-Away,Store
+2023-07-10 10:47:47.2670000,Potato corner,Food,Super,Mage Super Chicken,Combo,Combo,"1,00","4,50","0,00",Cashier 1,"4,50",Take-Away,Store
+2023-07-10 14:25:17.7830000,Potato corner,Food,"Potato Fries & Hotdogs ",Hotdog 4pcs,Combo,Combo,"1,00","2,00","0,00",Cashier 1,"2,00",Take-Away,Store
+2023-07-10 14:25:22.4170000,Potato corner,Food,Super,Jombo Super Chicken,Combo,Combo,"1,00","3,00","0,00",Cashier 1,"3,00",Take-Away,Store
+2023-07-10 13:18:42.5530000,Potato corner,Food,Happy Box Set,Set 5,Combo,Combo,"1,00","5,50","0,00",Cashier 1,"5,50",Take-Away,Store
+2023-07-10 19:53:35.4400000,Potato corner,Food,"Potato Fries & Hotdogs ",MEGA,Combo,Combo,"1,00","3,41","0,00",Cashier 1,"3,41",Take-Away,Store
+2023-07-10 19:54:07.5870000,Potato corner,"Drink ",Drink,Water,Normal,"Normal ","1,00","0,72","0,00",Cashier 1,"0,72",Take-Away,Store
+2023-07-10 19:29:38.6430000,Potato corner,Food,Super,Super Nuggets,Combo,Combo,"1,00","4,50","0,00",Cashier 1,"4,50",Take-Away,Store
+2023-07-10 17:49:51.4130000,Potato corner,"Drink ",Drink,Coca-Cola(Big),Normal,"Normal ","1,00","1,25","0,00",Cashier 1,"1,25",Take-Away,Store
+2023-07-10 20:58:49.2200000,Potato corner,Food,"Potato Fries & Hotdogs ",JUMBO,Combo,Combo,"1,00","3,04","0,00",Cashier 1,"3,04",Take-Away,Store
+2023-07-10 20:58:53.6570000,Potato corner,Food,"Wings Chicken ",Wings 4pcs,Combo,Combo,"1,00","4,78","0,00",Cashier 1,"4,78",Take-Away,Store
+2023-07-10 14:04:21.9530000,Potato corner,Food,"Potato Fries & Hotdogs ",Hotdog 4pcs,Combo,Combo,"1,00","2,00","0,00",Cashier 1,"2,00",Take-Away,Store
+2023-07-10 14:04:15.5930000,Potato corner,Food,"Potato Fries & Hotdogs ",LARGE,Combo,Combo,"1,00","1,75","0,00",Cashier 1,"1,75",Take-Away,Store
+2023-07-10 16:12:42.3770000,Potato corner,Food,"Potato Fries & Hotdogs ",GIGA,Combo,Combo,"1,00","5,37","0,00",Cashier 1,"5,37",Take-Away,Store
+2023-07-10 14:11:58.5830000,Potato corner,"Drink ",Drink,Water,Normal,"Normal ","1,00","0,72","0,00",Cashier 1,"0,72",Take-Away,Store
+2023-07-10 15:23:02.3000000,Potato corner,Food,"Potato Fries & Hotdogs ",MEGA,Combo,Combo,"1,00","3,41","0,00",Cashier 1,"3,41",Take-Away,Store
+2023-07-10 15:23:12.7100000,Potato corner,Food,Super,Mage Super Chicken,Combo,Combo,"1,00","4,50","0,00",Cashier 1,"4,50",Take-Away,Store
+2023-07-10 15:23:17.1200000,Potato corner,"Drink ",Drink,Water,Normal,"Normal ","1,00","0,72","0,00",Cashier 1,"0,72",Take-Away,Store
+2023-07-10 20:04:47.7530000,Potato corner,"Drink ",Drink,Sprite(Big),Normal,"Normal ","1,00","1,25","0,00",Cashier 1,"1,25",Take-Away,Store
+2023-07-10 20:04:38.4200000,Potato corner,Food,Popcorn & Nugget,Nugget 6pcs,Combo,Combo,"1,00","3,00","0,00",Cashier 1,"3,00",Take-Away,Store
+2023-07-10 20:04:34.4370000,Potato corner,Food,"Potato Fries & Hotdogs ",Hotdog 5pcs,Combo,Combo,"1,00","2,30","0,00",Cashier 1,"2,30",Take-Away,Store
+2023-07-10 09:59:29.8870000,Potato corner,Food,"Potato Fries & Hotdogs ",LARGE,Combo,Combo,"1,00","1,75","0,00",Cashier 1,"1,75",Take-Away,Store
+2023-07-10 18:41:11.8070000,Potato corner,Food,Super,Super Nuggets,Combo,Combo,"1,00","4,50","0,90",Cashier 1,"4,50",Take-Away,Store
+2023-07-10 21:01:05.0200000,Potato corner,Food,Super,Super Nuggets,Combo,Combo,"1,00","4,50","0,90",Cashier 1,"4,50",Take-Away,Store
+2023-07-10 21:01:41.6370000,Potato corner,"Drink ",Drink,Water,Normal,"Normal ","2,00","0,72","0,00",Cashier 1,"1,44",Take-Away,Store
+2023-07-10 18:28:55.6930000,Potato corner,Food,"Potato Fries & Hotdogs ",LARGE,Combo,Combo,"1,00","1,75","0,00",Cashier 1,"1,75",Take-Away,Store
+2023-07-10 16:18:55.0700000,Potato corner,"Drink ",Drink,Coca-Cola(Big),Normal,"Normal ","1,00","1,25","0,00",Cashier 1,"1,25",Take-Away,Store
+2023-07-10 16:18:41.8030000,Potato corner,Food,Happy Box Set,Set 5,Combo,Combo,"1,00","5,50","0,00",Cashier 1,"5,50",Take-Away,Store
+2023-07-10 17:39:28.6570000,Potato corner,Food,"Potato Fries & Hotdogs ",MEGA,Combo,Combo,"1,00","3,41","0,00",Cashier 1,"3,41",Take-Away,Store
+2023-07-10 17:39:50.0570000,Potato corner,Food,"Potato Fries & Hotdogs ",MEGA,Combo,Combo,"1,00","3,41","0,00",Cashier 1,"3,41",Take-Away,Store
+2023-07-10 17:38:48.1130000,Potato corner,Food,Super,Mage Super Chicken,Combo,Combo,"1,00","4,50","0,00",Cashier 1,"4,50",Take-Away,Store
+2023-07-10 20:39:33.4700000,Potato corner,Food,"Potato Fries & Hotdogs ",MEGA,Combo,Combo,"1,00","3,41","0,00",Cashier 1,"3,41",Take-Away,Store
+2023-07-10 18:16:58.9530000,Potato corner,Food,"Potato Fries & Hotdogs ",MEGA,Combo,Combo,"1,00","3,41","0,00",Cashier 1,"3,41",Take-Away,Store
+2023-07-10 15:39:12.6470000,Potato corner,Food,Popcorn & Nugget,Giga Popcorn,Combo,Combo,"1,00","4,50","0,00",Cashier 1,"4,50",Take-Away,Store
+2023-07-10 15:37:46.9030000,Potato corner,Food,"Potato Fries & Hotdogs ",LARGE,Combo,Combo,"3,00","1,75","0,00",Cashier 1,"5,25",Take-Away,Store
+2023-07-10 15:38:28.2800000,Potato corner,Food,Super,Super Wings + 1Coke,Combo,Combo,"1,00","5,00","0,00",Cashier 1,"5,00",Take-Away,Store
+2023-07-10 19:28:28.8900000,Potato corner,"Drink ",Drink,Coca-Cola,Normal,"Normal ","2,00","1,00","0,00",Cashier 1,"2,00",Take-Away,Store
+2023-07-10 19:28:40.0400000,Potato corner,"Drink ",Drink,Sprite,Normal,"Normal ","2,00","1,00","0,00",Cashier 1,"2,00",Take-Away,Store
+2023-07-10 19:28:12.9270000,Potato corner,Food,Happy Box Set,Set 6,Combo,Combo,"1,00","7,90","0,00",Cashier 1,"7,90",Take-Away,Store
+2023-07-10 20:54:25.4970000,Potato corner,Food,Delivery Menu,Hotdog 5pcs(Deli),Combo,Combo,"1,00","2,30","0,575",Cashier 1,"2,30",Delivery,Delivery Center
+2023-07-10 20:52:51.2470000,Potato corner,Food,Delivery Menu,Set2 Deli,Combo,Combo,"1,00","7,00","1,75",Cashier 1,"7,00",Delivery,Delivery Center
+2023-07-10 17:19:58.6670000,Potato corner,Food,Popcorn & Nugget,Nugget 10pcs,Combo,Combo,"1,00","4,80","0,00",Cashier 1,"4,80",Take-Away,Store
+2023-07-10 16:14:20.0170000,Potato corner,Food,Super,Jombo Super Chicken,Combo,Combo,"1,00","3,00","0,45",Cashier 1,"3,00",Take-Away,Store
+2023-07-10 15:47:24.8530000,Potato corner,"Drink ",Drink,Coca-Cola(Big),Normal,"Normal ","1,00","1,25","0,00",Cashier 1,"1,25",Take-Away,Store
+2023-07-10 15:47:10.6400000,Potato corner,Food,Super,Super Nuggets,Combo,Combo,"1,00","4,50","0,00",Cashier 1,"4,50",Take-Away,Store
+2023-07-10 20:44:40.1170000,Potato corner,Food,"Potato Fries & Hotdogs ",MEGA,Combo,Combo,"1,00","3,41","0,00",Cashier 1,"3,41",Take-Away,Store
+2023-07-10 14:11:07.2130000,Potato corner,Food,Super,Super Nuggets,Combo,Combo,"1,00","4,50","0,90",Cashier 1,"4,50",Take-Away,Store
+2023-07-10 16:21:14.6070000,Potato corner,Food,Super,Mage Super Chicken,Combo,Combo,"1,00","4,50","0,00",Cashier 1,"4,50",Take-Away,Store
+2023-07-10 17:14:10.4070000,Potato corner,Food,"Potato Fries & Hotdogs ",JUMBO,Combo,Combo,"1,00","3,04","0,00",Cashier 1,"3,04",Take-Away,Store
+2023-07-10 17:12:34.7630000,Potato corner,Food,"Potato Fries & Hotdogs ",MEGA,Combo,Combo,"1,00","3,41","0,00",Cashier 1,"3,41",Take-Away,Store
+2023-07-10 17:13:16.9700000,Potato corner,"Drink ",Drink,Lime Soda,Normal,"Normal ","2,00","1,80","0,00",Cashier 1,"3,60",Take-Away,Store
+2023-07-10 14:10:00.1670000,Potato corner,Food,"Potato Fries & Hotdogs ",LARGE,Combo,Combo,"1,00","1,75","0,00",Cashier 1,"1,75",Take-Away,Store

@@ -1,0 +1,48 @@
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AnalyticsReport.Core/bin/Debug/net7.0/AnalyticsReport.Core.deps.json
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AnalyticsReport.Core/bin/Debug/net7.0/AnalyticsReport.Core.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AnalyticsReport.Core/bin/Debug/net7.0/AnalyticsReport.Core.pdb
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.csproj.AssemblyReference.cache
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.AssemblyInfoInputs.cache
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.AssemblyInfo.cs
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.csproj.CoreCompileInputs.cache
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/refint/AnalyticsReport.Core.dll
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.pdb
+D:/project/4. AI Analytics Reporting/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/ref/AnalyticsReport.Core.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AnalyticsReport.Core/bin/Debug/net7.0/AnalyticsReport.Core.deps.json
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AnalyticsReport.Core/bin/Debug/net7.0/AnalyticsReport.Core.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AnalyticsReport.Core/bin/Debug/net7.0/AnalyticsReport.Core.pdb
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.csproj.AssemblyReference.cache
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.AssemblyInfoInputs.cache
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.AssemblyInfo.cs
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.csproj.CoreCompileInputs.cache
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/refint/AnalyticsReport.Core.dll
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.pdb
+D:/project/3. AI Analytics Reporting/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/ref/AnalyticsReport.Core.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AnalyticsReport.Core/bin/Debug/net7.0/AnalyticsReport.Core.deps.json
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AnalyticsReport.Core/bin/Debug/net7.0/AnalyticsReport.Core.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AnalyticsReport.Core/bin/Debug/net7.0/AnalyticsReport.Core.pdb
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.csproj.AssemblyReference.cache
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.AssemblyInfoInputs.cache
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.AssemblyInfo.cs
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.csproj.CoreCompileInputs.cache
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/refint/AnalyticsReport.Core.dll
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.pdb
+/Users/ATECH.Dev/Desktop/project/2. AIAnalyticReport/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/ref/AnalyticsReport.Core.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AnalyticsReport.Core/bin/Debug/net7.0/AnalyticsReport.Core.deps.json
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AnalyticsReport.Core/bin/Debug/net7.0/AnalyticsReport.Core.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AnalyticsReport.Core/bin/Debug/net7.0/AnalyticsReport.Core.pdb
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.csproj.AssemblyReference.cache
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.AssemblyInfoInputs.cache
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.AssemblyInfo.cs
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.csproj.CoreCompileInputs.cache
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/refint/AnalyticsReport.Core.dll
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/AnalyticsReport.Core.pdb
+/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AnalyticsReport.Core/obj/Debug/net7.0/ref/AnalyticsReport.Core.dll

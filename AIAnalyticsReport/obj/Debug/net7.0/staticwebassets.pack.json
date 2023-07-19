@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/wwwroot/assets/client_secret.json",
+      "PackagePath": "staticwebassets/assets/client_secret.json"
+    },
+    {
+      "Id": "/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/wwwroot/assets/dataset.csv",
+      "PackagePath": "staticwebassets/assets/dataset.csv"
+    },
+    {
+      "Id": "/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/wwwroot/assets/uploads/dataset.csv",
+      "PackagePath": "staticwebassets/assets/uploads/dataset.csv"
+    },
+    {
+      "Id": "/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/wwwroot/assets/uploads/test.csv",
+      "PackagePath": "staticwebassets/assets/uploads/test.csv"
+    },
+    {
+      "Id": "/Users/ATECH.Dev/Desktop/project/2.AIAnalyticReport/AIAnalyticsReport/AIAnalyticsReport/wwwroot/assets/uploads/train.csv",
+      "PackagePath": "staticwebassets/assets/uploads/train.csv"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.AIAnalyticsReport.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.AIAnalyticsReport.props",
+      "PackagePath": "build\\AIAnalyticsReport.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.AIAnalyticsReport.props",
+      "PackagePath": "buildMultiTargeting\\AIAnalyticsReport.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.AIAnalyticsReport.props",
+      "PackagePath": "buildTransitive\\AIAnalyticsReport.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

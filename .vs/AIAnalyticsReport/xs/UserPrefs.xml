@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{8850CCC0-1B3D-4175-82CD-966D4496754E}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AIAnalyticsReport PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnalyticsReport.Model/Dataset/DatasetModel.cs">
+    <Files>
+      <File FileName="AnalyticsReport.Manager/Google/GoogleManager.cs" Line="47" Column="47" />
+      <File FileName="AnalyticsReport.Manager/MachineLearning/DinexMachineLearningManager.cs" />
+      <File FileName="AnalyticsReport.Model/Dataset/DatasetModel.cs" Line="39" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AIAnalyticsReport" selected="True">
+            <Node name="AIAnalyticsReport" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="AnalyticsReport.Manager" expanded="True">
+              <Node name="Google" expanded="True" />
+            </Node>
+            <Node name="AnalyticsReport.Model" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

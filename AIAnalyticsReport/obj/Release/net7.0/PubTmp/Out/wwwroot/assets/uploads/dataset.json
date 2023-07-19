@@ -1,0 +1,584 @@
+[
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa No Spice with Fish + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 3.50
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Duck Meat + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Sweet Tosa",
+    "SubTotal": 2.80,
+    "GrandTotal": 2.80
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Shrimp Meat + White Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 3.50
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Shrimp Meat + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Sweet Tosa",
+    "SubTotal": 2.80,
+    "GrandTotal": 2.80
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Sweet Tosa",
+    "SubTotal": 2.80,
+    "GrandTotal": 2.80
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Snow White",
+    "SubTotal": 2.80,
+    "GrandTotal": 2.80
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Angkor Puro Water",
+    "SubTotal": 0.75,
+    "GrandTotal": 0.75
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": " Sweet Tosa x2​",
+    "SubTotal": 4.50,
+    "GrandTotal": 4.50
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Shrimp Meat + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Shrimp Meat + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Shrimp Meat + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Beef",
+    "SubTotal": 1.00,
+    "GrandTotal": 1.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Meatball",
+    "SubTotal": 1.00,
+    "GrandTotal": 1.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Bao Meatball",
+    "SubTotal": 1.00,
+    "GrandTotal": 1.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Snow White",
+    "SubTotal": 2.80,
+    "GrandTotal": 2.80
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Snow White",
+    "SubTotal": 2.80,
+    "GrandTotal": 2.80
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Snow White",
+    "SubTotal": 2.80,
+    "GrandTotal": 2.80
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Fish + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 7.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Duck Meat + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 7.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Shrimp Meat + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Fish + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Meatball + White Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 6.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Duck Meat + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Beef",
+    "SubTotal": 1.00,
+    "GrandTotal": 1.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Dory Fish Meat  ",
+    "SubTotal": 1.00,
+    "GrandTotal": 1.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Set6",
+    "SubTotal": 1.00,
+    "GrandTotal": 1.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Angkor Puro Water",
+    "SubTotal": 0.75,
+    "GrandTotal": 0.75
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Duck Meat + Yellow Noodle",
+    "SubTotal": 10.00,
+    "GrandTotal": 7.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Fish + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Duck Meat + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Beef + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Duck Meat + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Duck Blood Curd",
+    "SubTotal": 1.00,
+    "GrandTotal": 1.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Meatball",
+    "SubTotal": 1.00,
+    "GrandTotal": 1.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Fish + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Fish + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Beef + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 6.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Passion Milk",
+    "SubTotal": 2.25,
+    "GrandTotal": 2.25
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Sweet Tosa",
+    "SubTotal": 2.80,
+    "GrandTotal": 2.80
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Angkor Puro Water",
+    "SubTotal": 0.75,
+    "GrandTotal": 0.75
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Angkor Puro Water",
+    "SubTotal": 0.75,
+    "GrandTotal": 0.75
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": " Sweet Tosa x2​",
+    "SubTotal": 4.50,
+    "GrandTotal": 4.50
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": " Sweet Tosa x2​",
+    "SubTotal": 4.50,
+    "GrandTotal": 4.50
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Duck Meat + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 3.50
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Angkor Puro Water",
+    "SubTotal": 0.75,
+    "GrandTotal": 0.525
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Meatball + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Duck Meat + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Beef + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Duck Meat + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa No Spice with Shrimp + Yellow Noodle",
+    "SubTotal": 10.00,
+    "GrandTotal": 10.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa No Spice with Duck + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Angkor Puro Water",
+    "SubTotal": 0.75,
+    "GrandTotal": 0.75
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Duck Meat + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa No Spice with Duck + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa No Spice with Duck + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Snow White",
+    "SubTotal": 2.80,
+    "GrandTotal": 2.80
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Angkor Puro Water",
+    "SubTotal": 0.75,
+    "GrandTotal": 0.75
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Sting",
+    "SubTotal": 1.00,
+    "GrandTotal": 1.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Shrimp Meat + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Fish + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Shrimp Meat + Black Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Beef + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Snow White",
+    "SubTotal": 2.80,
+    "GrandTotal": 2.80
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Fish + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Duck Meat + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 6.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Duck Meat + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Beef + Yellow Noodle",
+    "SubTotal": 10.00,
+    "GrandTotal": 10.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Beef + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Beef + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Bok Choy ,Mushroom",
+    "SubTotal": 1.00,
+    "GrandTotal": 1.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Shrimp Meat + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Beef + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Angkor Puro Water",
+    "SubTotal": 0.75,
+    "GrandTotal": 0.75
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Meatball + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 6.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Fish + Black Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 3.50
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Fish + Black Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 3.50
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Beef",
+    "SubTotal": 1.00,
+    "GrandTotal": 0.70
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Meatball",
+    "SubTotal": 1.00,
+    "GrandTotal": 0.70
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Angkor Puro Water",
+    "SubTotal": 0.75,
+    "GrandTotal": 0.525
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Meatball + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Beef + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Duck Meat + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Angkor Puro Water",
+    "SubTotal": 0.75,
+    "GrandTotal": 0.75
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Beef + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 3.50
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Meatball + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 7.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Duck Meat + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Angkor Puro Water",
+    "SubTotal": 0.75,
+    "GrandTotal": 0.75
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Meatball + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Duck Meat + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Yellow Corn ,Lotus Root",
+    "SubTotal": 1.00,
+    "GrandTotal": 1.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Pepsi",
+    "SubTotal": 1.00,
+    "GrandTotal": 1.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Duck Meat + Yellow Noodle",
+    "SubTotal": 5.00,
+    "GrandTotal": 5.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Angkor Puro Water",
+    "SubTotal": 0.75,
+    "GrandTotal": 0.75
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Tosa Signature with Duck Meat + Yellow Noodle",
+    "SubTotal": 10.00,
+    "GrandTotal": 10.00
+  },
+  {
+    "OrderDateTime": "2023-06-23",
+    "Item": "Duck Blood Curd",
+    "SubTotal": 1.00,
+    "GrandTotal": 1.00
+  }
+]
