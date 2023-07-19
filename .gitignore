@@ -1,4 +1,4 @@
 # ignore all .a files
 *.a
-*.DS_Store
-*.AIAnalyticReport/wwwroot/assets/uploads
+.DS_Store
+AIAnalyticReport/wwwroot/assets/uploads
