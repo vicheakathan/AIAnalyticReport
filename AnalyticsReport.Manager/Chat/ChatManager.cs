@@ -145,6 +145,33 @@ namespace AnalyticsReport.Manager
 
             return responseBody;
         }
+
+        public async Task<object> Chat(string? prompt)
+        {
+            string apiKey = "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";
+            string model = "gpt-3.5-turbo";
+            string apiUrl = "https://api.openai.com/v1/chat/completions";
+
+            HttpClient _httpClient = new HttpClient();
+
+            _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", apiKey);
+
+            var requestBody = new
+            {
+                prompt = prompt,
+                model = model
+            };
+
+            var json = JsonConvert.SerializeObject(requestBody);
+
+            var content = new StringContent(json, Encoding.UTF8, "application/json");
+
+            var response = await _httpClient.PostAsync(apiUrl, content);
+
+            string responseContent = await response.Content.ReadAsStringAsync();
+
+            return responseContent;
+        }
     }
 
     public class ChatExample

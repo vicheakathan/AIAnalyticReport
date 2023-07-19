@@ -25,7 +25,6 @@ builder.AddAuthentication();
 builder.Services.AddScoped<ChatManager>();
 builder.Services.AddScoped<DashboardManager>();
 builder.Services.AddScoped<OAuthManager>();
-builder.Services.AddScoped<ReportManager>();
 builder.Services.AddScoped<GoogleManager>();
 builder.Services.AddScoped<DinexMachineLearningManager>();
 builder.Services.AddApplicationInsightsTelemetry();
