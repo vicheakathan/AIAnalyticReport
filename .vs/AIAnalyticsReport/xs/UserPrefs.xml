@@ -1,11 +1,7 @@
 ﻿<Properties StartupConfiguration="{8850CCC0-1B3D-4175-82CD-966D4496754E}|https">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.AIAnalyticsReport PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="AnalyticsReport.Manager/Google/GoogleManager.cs">
     <Files>
-      <File FileName="AnalyticsReport.Manager/Google/GoogleManager.cs" Line="45" Column="48" />
+      <File FileName="AnalyticsReport.Manager/Google/GoogleManager.cs" Line="49" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,12 +9,10 @@
           <Node name="AIAnalyticsReport">
             <Node name="AIAnalyticsReport" expanded="True">
               <Node name="Controllers" expanded="True" />
+              <Node name="Properties" selected="True" />
             </Node>
             <Node name="AnalyticsReport.Manager" expanded="True">
-              <Node name="Google" expanded="True">
-                <Node name="GoogleManager.cs" selected="True" />
-              </Node>
-              <Node name="MachineLearning" expanded="True" />
+              <Node name="Google" expanded="True" />
             </Node>
             <Node name="AnalyticsReport.Model" expanded="True" />
           </Node>
@@ -26,7 +20,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AIAnalyticsReport PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
